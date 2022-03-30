@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jeff Tang
 
 You can use the [editor on GitHub](https://github.com/tang-yf20/yf-tang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

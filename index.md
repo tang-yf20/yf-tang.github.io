@@ -10,9 +10,9 @@ Applied and Computational Mathematics and Theoretical Machine Learning
 
 The notes of the lectures.
 
-[Applied Analysis]
+[Applied Analysis](url)
 
-[Numerical Methods fo PDEs]
+[Numerical Methods fo PDEs](url)
 
 
 ### Contact Me

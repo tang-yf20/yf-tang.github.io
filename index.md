@@ -1,6 +1,6 @@
 ## Jeff Tang
 
-Welcome to my blog.
+Welcome to my website.
 
 ### Research Interests
 
@@ -8,13 +8,13 @@ Applied and Computational Mathematics and Theoretical Machine Learning. Apart fr
 
 ### Lecture Notes
 
-The notes of the lectures, mianly applied and computational mathematics.
+The notes of the lectures, mainly applied and computational mathematics.
 
-[Applied Analysis, Autumn Semester 2022](url) 
+[Applied Asymptotic Analysis, Autumn Semester 2022](url)
 
-[Numerical Methods fo PDEs,  Autumn Semester 2022](url)
+[Numerical Methods for PDEs,  Autumn Semester 2022](url)
 
-[Quantum Mechanics](url)
+[Quantum Mechanics, Spring Semester 2023](url)
 
 [Finite Difference Method, Autumn Semester 2022](url)
 

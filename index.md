@@ -36,7 +36,9 @@ One under review. TBA.
 
 ### Contact Me
 
-Email Address: [tangyf20@icloud.com](url) [tang-yf20@mails.tsinghua.edu.cn]
+Email Address: [tangyf20@icloud.com](url) 
+
+[tang-yf20@mails.tsinghua.edu.cn](url)
 
 Phone Number: [N/A](url)
 

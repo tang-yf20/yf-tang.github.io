@@ -4,7 +4,7 @@ Welcome to my website.
 
 ### Research Interests
 
-Applied and Computational Mathematics and Theoretical Machine Learning. Apart from that, I am also interested in Astronomy and Detective Novels. Anime is also highly appreciated. 
+Applied and Computational Mathematics and Theoretical Machine Learning, mainly numerical methods for partial differential equations. Apart from that, I am also interested in the application of math in other domains.
 
 ### Lecture Notes
 
@@ -20,19 +20,23 @@ The notes of the lectures, mainly applied and computational mathematics.
 
 [Finite Element Method](url)
 
-[Applied Stochastic Process](url)
+[Applied Stochastic Process, Autumn Semester 2022](url)
 
 [Algorithm Designing](url)
 
-[Partial Differential Equations](url)
+[Partial Differential Equations, Summer 2022](url)
+
+[Functional Analysis Seminar, Summer 2022](url)
 
 ### Publications 
 
-[TBA](url)
+One under review. TBA. 
+
+### [CV](url)
 
 ### Contact Me
 
-Email Address: [tangyf20@icloud.com](url)
+Email Address: [tangyf20@icloud.com](url) [tang-yf20@mails.tsinghua.edu.cn]
 
 Phone Number: [N/A](url)
 

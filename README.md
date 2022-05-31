@@ -1,2 +1,2 @@
-# yf-tang.github.io
-The Personal of Jeff Tang
+# Y.F. TANG
+The Blog of Jeff Tang
